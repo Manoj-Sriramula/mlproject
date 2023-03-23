@@ -4,6 +4,7 @@ seaborn
 matplotlib
 scikit-learn
 catboost
- xgboost
- dill
+xgboost
+dill
+Flask
 #-e .
